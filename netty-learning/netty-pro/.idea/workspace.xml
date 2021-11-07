@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427fbc90-8f84-4338-9721-595b4a253e96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../game-research/游戏开发调研.assets/image-20210921170003669.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../game-research/游戏开发调研.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dexlace/netty/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dexlace/netty/chapter1/TestByteBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dexlace/netty/Lover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dexlace/netty/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dexlace/netty/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +93,9 @@
       <updated>1634905270558</updated>
       <workItem from="1634905273741" duration="3882000" />
       <workItem from="1634966533481" duration="13733000" />
+      <workItem from="1635602123196" duration="2304000" />
+      <workItem from="1635941803280" duration="1710000" />
+      <workItem from="1636038666391" duration="1986000" />
     </task>
     <servers />
   </component>
